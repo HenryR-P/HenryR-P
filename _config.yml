@@ -1,6 +1,6 @@
 title: My Website
 description: Portfolio and projects of Your Name
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/slate
 
 # Enable GitHub Pages plugin
 plugins:
@@ -22,6 +22,6 @@ nav:
     url: /contact
 
 # Optional extras
-color_scheme: light
+color_scheme: dark
 logo: /assets/logo.png
 search_enabled: true
