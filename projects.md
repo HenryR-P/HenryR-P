@@ -9,5 +9,5 @@ Here are some of my favorite works:
 
 | Year | Project | Description |
 |------|----------|--------------|
-| 2024 | Tokyo Mapping Studio | A collection of urban spatial stories |
-| 2023 | Cities in Motion | An interactive Leaflet map series |
+| 2026 | Power Plants | A map of three types of power plants in the US |
+| 2026 | Board Games | A map of board game players across the US |
