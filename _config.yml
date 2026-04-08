@@ -15,11 +15,11 @@ nav:
   - title: "Home"
     url: /
   - title: "About Me"
-    url: /about
+    url: /about.md
   - title: "Projects"
-    url: /projects
+    url: /projects.md
   - title: "Contact"
-    url: /contact
+    url: /contact.md
 
 # Optional extras
 color_scheme: dark
