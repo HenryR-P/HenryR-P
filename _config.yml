@@ -2,7 +2,7 @@ title: ENST 4064: Web Mapping and GIS
 description: Portfolio and projects by Henry Roberts-Poyourow
 remote_theme: pages-themes/slate
 
-# Enable GitHub Pages plugin
+# Enable GitHub Pages pluginn
 plugins:
   - jekyll-remote-theme
   
