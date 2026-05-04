@@ -1,5 +1,5 @@
-title: My Website
-description: Portfolio and projects of Henry Roberts-Poyourow
+title: ENST 4064: Web Mapping and GIS
+description: Portfolio and projects by Henry Roberts-Poyourow
 remote_theme: pages-themes/slate
 
 # Enable GitHub Pages plugin
@@ -16,7 +16,7 @@ nav:
     url: /
   - title: "About Me"
     url: /about.md
-  - title: "Projects"
+  - title: "Portfolio"
     url: /projects.md
   - title: "Contact"
     url: /contact.md
